@@ -1,20 +1,26 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
-blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
-intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
-values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+date: 2016-03-08T21:07:13+01:00
+title: Welcome to Exp-AI Docs Manager
+type: index
+tags: welcome
+weight: 1
 ---
 
+## A common ground for decentralized efficiency
+
+This space, as well as other we'll be building to support Exp-AI operations,
+is intended as the official place for developing a common ground in terms of
+vision/mission/values, as well as overall strategy.
+
+## How to use
+
+- **First, read:** Content should be organized by verticals, so you can focus only on it. Please,
+  take your time to read it all before proceeding with a comment or preparing new content.
+
+- **Second, reach consensus:** As a common ground, aside comments, what lies here is to be accepted
+  and respected for everyone as the way to go. Please, try and confirm agreement from a majority
+  before proceeding editing content.
+
+- **Be concise:** Everyone accessing this tool has knowledge of the context on, at least everything
+  that has to do with his vertical. We're trying to be productive, so please don't expose redundant
+  info/ideas and avoid excessive verbosity.
